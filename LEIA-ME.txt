@@ -1,0 +1,22 @@
+SITE ÚNICO — SARITHA GUIMARÃES
+
+Estrutura:
+
+index.html                  Página inicial
+neuro/index.html            Rota /neuro/
+relacionamentos/index.html  Rota /relacionamentos/
+comparar.html               Comparação das três páginas com os originais
+assets/                     Imagens compartilhadas
+uploads/                    Imagem usada na página inicial
+support.js                  Funcionamento da página inicial
+image-slot.js               Exibição das imagens da página inicial
+
+Para publicar, envie todo o conteúdo desta pasta para a raiz da hospedagem.
+Não envie apenas um dos arquivos HTML, pois as páginas utilizam as imagens da
+pasta assets.
+
+O pacote funciona em hospedagens estáticas como GitHub Pages, Netlify e Vercel,
+ou pode ser integrado ao domínio atual.
+
+Não é necessário instalar dependências nem executar um processo de build.
+Para testar localmente, abra a pasta por meio de um servidor HTTP simples.
